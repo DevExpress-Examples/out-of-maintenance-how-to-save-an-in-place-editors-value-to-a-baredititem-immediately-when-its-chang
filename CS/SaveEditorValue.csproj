@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
@@ -73,21 +73,21 @@
     <DebugType>none</DebugType>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.XtraBars.v12.1, Version=12.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
-    <Reference Include="DevExpress.Printing.v12.1.Core">
-      <Name>DevExpress.Printing.v12.1.Core</Name>
+    <Reference Include="DevExpress.Printing.v13.1.Core">
+      <Name>DevExpress.Printing.v13.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Data.v12.1">
-      <Name>DevExpress.Data.v12.1</Name>
+    <Reference Include="DevExpress.Data.v13.1">
+      <Name>DevExpress.Data.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Utils.v12.1">
-      <Name>DevExpress.Utils.v12.1</Name>
+    <Reference Include="DevExpress.Utils.v13.1">
+      <Name>DevExpress.Utils.v13.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v12.1">
-      <Name>DevExpress.XtraEditors.v12.1</Name>
+    <Reference Include="DevExpress.XtraEditors.v13.1">
+      <Name>DevExpress.XtraEditors.v13.1</Name>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
