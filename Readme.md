@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarManagerHelper.cs](./CS/BarManagerHelper.cs) (VB: [BarManagerHelper.vb](./VB/BarManagerHelper.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
 # How to save an in-place editor's value to a BarEditItem immediately when it's changed
 
 
